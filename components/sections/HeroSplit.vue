@@ -41,7 +41,7 @@
                             <div class="reveal-rotate-from-left" data-reveal-delay="450">
                                 <c-image
                                     class="has-shadow"
-                                    :src="require('@/assets/images/hero-image.svg')"
+                                    :src="require('@/assets/images/banner-image.png')"
                                     alt="Hero image"
                                     :width="528"
                                     :height="396" />
