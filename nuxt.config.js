@@ -12,9 +12,6 @@ export default {
   router: {
     base: '/insuretech/'
   },
-  generate: {
-    dir: 'dist/insuretech'
-  },
   /*
   ** Headers of the page
   ** See https://nuxtjs.org/api/configuration-head
