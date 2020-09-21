@@ -17,7 +17,7 @@
                 ]">
                 <div class="cta-slogan">
                     <h3 class="m-0">
-                        Nisi porta lorem mollis aliquam ut.
+                      Lets start a journey towards Next Gen Insurance
                     </h3>
                 </div>
                 <div class="cta-action">

@@ -6,7 +6,7 @@
                     <div class="footer-blocks">
                         <div class="footer-block">
                             <c-logo class="mb-16" />
-                            <div class="footer-copyright">&copy; 2020 Sienna, all rights reserved</div>
+                            <div class="footer-copyright">&copy; 2020 InsureTech, all rights reserved</div>
                         </div>
                         <div class="footer-block">
                             <div class="footer-block-title">Company</div>

@@ -3,10 +3,10 @@
         <h1 class="m-0">
             <router-link to="/">
                 <c-image
-                    :src="require('@/assets/images/logo.svg')"
+                    :src="require('@/assets/images/logo.png')"
                     alt="Sienna"
-                    :width="44"
-                    :height="32" />
+                    :width="100"
+                    :height="100" />
             </router-link>
         </h1>
     </div>

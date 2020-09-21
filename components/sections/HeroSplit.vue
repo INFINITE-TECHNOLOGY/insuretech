@@ -24,11 +24,13 @@
                     <div class="split-item">
                         <div class="hero-content split-item-content center-content-mobile">
                             <h1 class="mt-0 mb-12 reveal-from-left" data-reveal-delay="150">
-                                Landing template for startups
+                              Time To Rethink Insurance
                             </h1>
-                            <p class="mt-0 mb-24 reveal-from-left" data-reveal-delay="300">
-                                Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.
-                            </p>
+                                <p class="mt-0 mb-24 reveal-from-left" data-reveal-delay="300">
+                                  Instant Insurance. Great Prices. Chatbot Support.
+                                  <br>
+                                  AI & Blockchain Supported Claim
+                                </p>
                             <div class="reveal-from-left" data-reveal-delay="450">
                                 <c-button tag="a" color="primary" wide-mobile href="#">
                                     Pricing and plans

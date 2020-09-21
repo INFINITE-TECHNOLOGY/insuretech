@@ -14,43 +14,9 @@
                     topDivider && 'has-top-divider',
                     bottomDivider && 'has-bottom-divider'
                 ]">
-                <ul class="list-reset">
-                    <li class="reveal-rotate-from-left">
-                        <c-image
-                            :src="require('@/assets/images/clients-01.svg')"
-                            alt="Client 01"
-                            :width="132"
-                            :height="37" />
-                    </li>
-                    <li class="reveal-rotate-from-left" data-reveal-delay="150">
-                        <c-image
-                            :src="require('@/assets/images/clients-02.svg')"
-                            alt="Client 02"
-                            :width="80"
-                            :height="28" />
-                    </li>
-                    <li class="reveal-rotate-from-left" data-reveal-delay="300">
-                        <c-image
-                            :src="require('@/assets/images/clients-03.svg')"
-                            alt="Client 03"
-                            :width="130"
-                            :height="29" />
-                    </li>
-                    <li class="reveal-rotate-from-left" data-reveal-delay="450">
-                        <c-image
-                            :src="require('@/assets/images/clients-04.svg')"
-                            alt="Client 04"
-                            :width="105"
-                            :height="22" />
-                    </li>
-                    <li class="reveal-rotate-from-left" data-reveal-delay="600">
-                        <c-image
-                            :src="require('@/assets/images/clients-05.svg')"
-                            alt="Client 05"
-                            :width="124"
-                            :height="24" />
-                    </li>
-                </ul>
+              <p class="mt-0 reveal-from-left text-center" data-reveal-delay="300">
+                Built For the 21st Century our insurance coverage protects you and the stuff you own.
+              </p>
             </div>
         </div>
     </section>
@@ -68,3 +34,8 @@ export default {
   mixins: [SectionProps]
 }
 </script>
+<style>
+.text-center{
+  text-align: center;
+}
+</style>

@@ -66,11 +66,11 @@
                                         What’s included <span role="img" aria-label="see below">👇</span>
                                     </div>
                                     <ul class="pricing-item-features-list list-reset text-xs mb-32">
-                                        <li class="is-checked">Excepteur sint occaecat velit</li>
-                                        <li class="is-checked">Excepteur sint occaecat velit</li>
-                                        <li class="is-checked">Excepteur sint occaecat velit</li>
-                                        <li>Excepteur sint occaecat velit</li>
-                                        <li>Excepteur sint occaecat velit</li>
+                                      <li class="is-checked">Weather damage</li>
+                                      <li class="is-checked">Floods</li>
+                                      <li class="is-checked">Fire</li>
+                                      <li class="is-checked">Theft</li>
+                                      <li class="is-checked">Earthquake</li>
                                     </ul>
                                 </div>
                             </div>
@@ -97,11 +97,11 @@
                                         What’s included <span role="img" aria-label="see below">👇</span>
                                     </div>
                                     <ul class="pricing-item-features-list list-reset text-xs mb-32">
-                                        <li class="is-checked">Excepteur sint occaecat velit</li>
-                                        <li class="is-checked">Excepteur sint occaecat velit</li>
-                                        <li class="is-checked">Excepteur sint occaecat velit</li>
-                                        <li class="is-checked">Excepteur sint occaecat velit</li>
-                                        <li>Excepteur sint occaecat velit</li>
+                                      <li class="is-checked">Weather damage</li>
+                                      <li class="is-checked">Floods</li>
+                                      <li class="is-checked">Fire</li>
+                                      <li class="is-checked">Theft</li>
+                                      <li class="is-checked">Earthquake</li>
                                     </ul>
                                 </div>
                             </div>
@@ -128,11 +128,11 @@
                                         What’s included <span role="img" aria-label="see below">👇</span>
                                     </div>
                                     <ul class="pricing-item-features-list list-reset text-xs mb-32">
-                                        <li class="is-checked">Excepteur sint occaecat velit</li>
-                                        <li class="is-checked">Excepteur sint occaecat velit</li>
-                                        <li class="is-checked">Excepteur sint occaecat velit</li>
-                                        <li class="is-checked">Excepteur sint occaecat velit</li>
-                                        <li class="is-checked">Excepteur sint occaecat velit</li>
+                                      <li class="is-checked">Weather damage</li>
+                                      <li class="is-checked">Floods</li>
+                                      <li class="is-checked">Fire</li>
+                                      <li class="is-checked">Theft</li>
+                                      <li class="is-checked">Earthquake</li>
                                     </ul>
                                 </div>
                             </div>

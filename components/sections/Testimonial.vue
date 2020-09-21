@@ -33,11 +33,11 @@
                             </div>
                             <div class="testimonial-item-content">
                                 <p class="text-sm mb-0">
-                                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id.
+                                  I just learned about @XYZ_Inc this morning and now they have a new customer. I swear it was one of the most enjoyable conversions and onboarding experiences I’ve had…maybe ever. I kind of want to do it all over again, Well done! 
                                 </p>
                             </div>
                             <div class="testimonial-item-footer mt-24 mb-0 pt-24 has-top-divider">
-                                <span class="testimonial-item-name text-sm fw-700">Erik Muliawan</span>
+                                <span class="testimonial-item-name text-sm fw-700">Anton</span>
                                 <span class="testimonial-item-link text-xs fw-500">
                                     <a href="#">AppName</a>
                                 </span>
@@ -58,11 +58,11 @@
                             </div>
                             <div class="testimonial-item-content">
                                 <p class="text-sm mb-0">
-                                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id.
+                                  Always disappointed in how much insurance will fight against the customer in a claim. Just had my first good experience with filing. Unbelievably quick and solid customer experience with @xyz_Inc.
                                 </p>
                             </div>
                             <div class="testimonial-item-footer mt-24 mb-0 pt-24 has-top-divider">
-                                <span class="testimonial-item-name text-sm fw-700">Tanya Litvinov</span>
+                                <span class="testimonial-item-name text-sm fw-700">Gajendra</span>
                                 <span class="testimonial-item-link text-xs fw-500">
                                     <a href="#">AppName</a>
                                 </span>
@@ -83,11 +83,11 @@
                             </div>
                             <div class="testimonial-item-content">
                                 <p class="text-sm mb-0">
-                                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id.
+                                  Big thumps-up to @xyz_Inc! I haven’t purchased an insurance policy that simple, fair and transparent yet. #insurance #digitisation #paperless
                                 </p>
                             </div>
                             <div class="testimonial-item-footer mt-24 mb-0 pt-24 has-top-divider">
-                                <span class="testimonial-item-name text-sm fw-700">Mark Solberghe</span>
+                                <span class="testimonial-item-name text-sm fw-700">Sahil</span>
                                 <span class="testimonial-item-link text-xs fw-500">
                                     <a href="#">AppName</a>
                                 </span>

@@ -28,7 +28,7 @@ export default {
   components: {
     CHeroSplit,
     CClients,
-    CFeaturesTiles,
+    // CFeaturesTiles,
     CFeaturesSplit,
     CTestimonial,
     CPricing,
