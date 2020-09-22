@@ -2,11 +2,6 @@
     <div class="brand">
         <h1 class="m-0">
             <router-link to="/">
-                <c-image
-                    :src="require('@/assets/images/logo.png')"
-                    alt="Sienna"
-                    :width="100"
-                    :height="100" />
             </router-link>
         </h1>
     </div>
