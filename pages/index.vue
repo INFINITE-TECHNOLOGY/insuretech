@@ -4,8 +4,6 @@
         <c-clients top-divider bottom-divider />
         <c-features-tiles />
         <c-features-split invert-mobile image-fill />
-        <c-testimonial top-divider />
-        <c-pricing has-bg-color top-divider pricing-switcher />
         <c-cta has-bg-color invert-color top-divider bottom-divider split />
     </fragment>
 </template>

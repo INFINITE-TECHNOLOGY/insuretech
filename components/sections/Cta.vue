@@ -21,7 +21,7 @@
                     </h3>
                 </div>
                 <div class="cta-action">
-                    <c-button tag="a" color="secondary" wide-mobile href="#">
+                    <c-button tag="a" color="secondary" wide-mobile href="mailto:sales@i-t.io">
                         Get started
                     </c-button>
                 </div>
